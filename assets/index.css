@@ -1,0 +1,45 @@
+a {
+    text-decoration: none important;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none important;
+    color: black;
+}
+
+.maincontainer {
+    width: 60px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+.bgwhite {
+    background: white;
+    z-index: 6;
+}
+
+.accounttext {
+    font-size: 12px;
+    color: black;
+}
+
+.accounttext:hover {
+    color: rgb(red
+    }
+
+    .trendicon {
+        width: 150px;
+    }
+
+    .div {
+        display: flex;
+        width: 80%;
+        justify-content: space-around;
+        gap: 50px;
+        margin-top: 20px;
+        align-items: center;
+        margin: 0 auto;
+        background-color: white;
+    }
+    
